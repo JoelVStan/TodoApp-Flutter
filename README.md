@@ -4,7 +4,7 @@ A To Do App made with Flutter framwork.
 
 ## Features
 - Add new tasks
-- Strike off the tasks
+- After completion of a task, click tick, strike off the task
 - To delete a task, slide to the left and click delete button
 - Used Hive local storage as database
 
